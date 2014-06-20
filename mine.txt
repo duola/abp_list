@@ -1,5 +1,5 @@
 ﻿[Adblock Plus]
-!  abp/adb更新地址:https://dl.dropboxusercontent.com/s/zwr68fm0wqmenot/hu.txt?dl=1&token_hash=AAHd4hTqu_KJNXovBzEHbVZrMTbkT1fv4xdKaAm1M54gsw&expiry=1401287685
+!  abp/adb更新地址:https://raw.githubusercontent.com/duola/abp_list/master/mine.txt
 !
 !  Last Modified: 2014-6-6 23:11:50
 !  coding: utf-8, expires: 1 days
